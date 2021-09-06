@@ -72,22 +72,22 @@ function App() {
           </div>
 
           <Switching>
-            <Route path="/" exact>
+            <Route path="JesusCenteno/" exact>
               <HomePage />
             </Route>
-            <Route path="/about" exact>
+            <Route path="JesusCenteno/about" exact>
               <AboutPage />
             </Route>
-            <Route path="/resume" exact>
+            <Route path="JesusCenteno/resume" exact>
               <ResumePage />
             </Route>
-            <Route path="/portfolios" exact>
+            <Route path="JesusCenteno/portfolios" exact>
               <PortfoliosPage />
             </Route>
-            <Route path="/blogs" exact>
+            <Route path="JesusCenteno/blogs" exact>
                <BlogsPage />
             </Route>
-            <Route path="/contact" exact>
+            <Route path="JesusCenteno/contact" exact>
               <ContactPage />
             </Route>
           </Switching>
