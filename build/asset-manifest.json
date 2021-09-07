@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/JesusCenteno/static/js/main.8f9eaa6d.chunk.js",
+    "main.js.map": "/JesusCenteno/static/js/main.8f9eaa6d.chunk.js.map",
+    "runtime-main.js": "/JesusCenteno/static/js/runtime-main.815e197f.js",
+    "runtime-main.js.map": "/JesusCenteno/static/js/runtime-main.815e197f.js.map",
+    "static/js/2.50cb2f08.chunk.js": "/JesusCenteno/static/js/2.50cb2f08.chunk.js",
+    "static/js/2.50cb2f08.chunk.js.map": "/JesusCenteno/static/js/2.50cb2f08.chunk.js.map",
+    "index.html": "/JesusCenteno/index.html",
+    "static/js/2.50cb2f08.chunk.js.LICENSE.txt": "/JesusCenteno/static/js/2.50cb2f08.chunk.js.LICENSE.txt",
+    "static/media/avatar.0945d7c4.jpg": "/JesusCenteno/static/media/avatar.0945d7c4.jpg",
+    "static/media/blog1.aa2f074c.svg": "/JesusCenteno/static/media/blog1.aa2f074c.svg",
+    "static/media/blog2.df7996bd.svg": "/JesusCenteno/static/media/blog2.df7996bd.svg",
+    "static/media/blog3.969725e8.svg": "/JesusCenteno/static/media/blog3.969725e8.svg",
+    "static/media/blog4.60aa6cec.svg": "/JesusCenteno/static/media/blog4.60aa6cec.svg",
+    "static/media/cv_css.81d94986.png": "/JesusCenteno/static/media/cv_css.81d94986.png",
+    "static/media/design.b0dea6a3.svg": "/JesusCenteno/static/media/design.b0dea6a3.svg",
+    "static/media/game-dev.7e1a6c88.svg": "/JesusCenteno/static/media/game-dev.7e1a6c88.svg",
+    "static/media/intelligence.191362ff.svg": "/JesusCenteno/static/media/intelligence.191362ff.svg",
+    "static/media/maya-3.8bd072e0.jpg": "/JesusCenteno/static/media/maya-3.8bd072e0.jpg",
+    "static/media/maya-4.98e8029e.jpg": "/JesusCenteno/static/media/maya-4.98e8029e.jpg",
+    "static/media/ms.08be9db5.png": "/JesusCenteno/static/media/ms.08be9db5.png",
+    "static/media/react_styled.c23ef94e.png": "/JesusCenteno/static/media/react_styled.c23ef94e.png",
+    "static/media/resume.127063d1.jpg": "/JesusCenteno/static/media/resume.127063d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.815e197f.js",
+    "static/js/2.50cb2f08.chunk.js",
+    "static/js/main.8f9eaa6d.chunk.js"
+  ]
+}
